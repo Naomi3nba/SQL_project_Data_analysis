@@ -74,7 +74,8 @@ LIMIT 15;
 
 - In comparison, **Data Scientist** roles offer **significantly higher salaries than Data Analyst positions in Norway. The top-paying Data Scientist jobs reach up to 157,500 USD annually, while the highest salary for a Data Analyst role is 98,500 USD.** This indicates a notable gap in compensation, reflecting the greater technical complexity and advanced skills typically required for Data Scientist positions.
 
-  ![TOP PAYING SALARY IN NORWAY](image.png)
+  <img width="513" height="348" alt="image" src="https://github.com/user-attachments/assets/8e404cce-882a-4ce8-9689-6b6ec501445a" />
+
 
 
 ### Question 2️⃣: 
@@ -136,7 +137,8 @@ What skills are required for the  15 top-paying for 'Data Analyst' in Norway?
 
 - Some companies (like Unacast) list less common skills such as Go and Matplotlib, which may indicate more technically advanced environments.
 
-    ![skills requiered top](Q2.JPG)
+    <img width="1980" height="1180" alt="Q2" src="https://github.com/user-attachments/assets/dd9cc53a-cd8d-4d05-b4d4-565cd5fd725c" />
+
 
 ### Question 3️⃣:
 
