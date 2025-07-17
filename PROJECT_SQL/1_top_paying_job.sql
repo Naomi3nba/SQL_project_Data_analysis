@@ -1,7 +1,7 @@
 /* 
 Question 1: 
 
-- What are the 15 top-paying job for 'Data Analyst'?
+- What are the 15 top-paying job for 'Data Analyst' in Norway?
 - Country = Norway
 - Company Name
 
@@ -32,7 +32,7 @@ salary_year_avg IS NOT NULL
 ORDER BY
 salary_year_avg DESC
 
-LIMIT 15
+LIMIT 15;
 
 
 /* 
@@ -69,5 +69,4 @@ salary_year_avg IS NOT NULL
 ORDER BY
 salary_year_avg DESC
 
-LIMIT 15
-
+LIMIT 15;

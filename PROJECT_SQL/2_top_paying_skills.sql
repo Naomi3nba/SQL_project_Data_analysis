@@ -4,6 +4,7 @@ QUESTION #2:
 - What skills are required for the  15 top-paying for 'Data Analyst' in Norway?
 
 */
+
 WITH top_paying_job AS (
 
     SELECT 
